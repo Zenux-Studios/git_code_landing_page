@@ -24,10 +24,9 @@ export default function Home() {
                 >
                   Install Extension
                 </a>
-
               </Button>
               <HeroVideoDialog
-                className="hidden dark:block"
+                className="block"
                 animationStyle="top-in-bottom-out"
                 videoSrc="https://www.youtube.com/embed/EJkLJwgYyfA"
                 thumbnailSrc="https://startup-template-sage.vercel.app/hero-dark.png"
