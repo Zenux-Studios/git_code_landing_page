@@ -37,7 +37,7 @@ export default function Privacy() {
           </h2>
           <p className="text-muted-foreground">
             We may update this privacy policy from time to time. Any changes
-            will be reflected on this page, along with an updated "Last Updated"
+            will be reflected on this page, along with an updated &quot;Last Updated&quot;
             date.
           </p>
         </section>

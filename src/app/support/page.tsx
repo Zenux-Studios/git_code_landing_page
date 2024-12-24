@@ -71,7 +71,7 @@ export default function Support() {
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">Support & Feedback</h1>
         <p className="text-muted-foreground">
-          We're here to help! Send us your questions or feedback.
+          We&apos;re here to help! Send us your questions or feedback.
         </p>
       </div>
 
